@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo $PATH
+echo "Hello world!"  
 pwd
 mydir=$(pwd)
 echo $mydir
