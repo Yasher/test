@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo $PATH
+echo "Hi Admin!!!"
 pwd
 mydir=$(pwd)
 echo $mydir
