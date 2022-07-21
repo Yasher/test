@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hi Admin!!!"
+echo "Hello world!"  
 pwd
 mydir=$(pwd)
 echo $mydir
