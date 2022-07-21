@@ -2,3 +2,5 @@
 
 echo $PATH
 pwd
+mydir=$(pwd)
+echo $mydir
